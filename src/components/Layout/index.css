@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.layout-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
